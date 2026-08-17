@@ -1,0 +1,606 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13560v1"
+    },
+    "content": {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "authors": [
+        "Yaxin Luo",
+        "Haobin Jiang",
+        "Jialv Zou",
+        "Xu Huang",
+        "Wenhao Yan",
+        "Haodong Li",
+        "Zhengrong Yue",
+        "Jing Li",
+        "Xiaofu Chen",
+        "Xiaohan Zhao",
+        "Jiacheng Liu",
+        "Jiacheng Cui",
+        "Zhiqiang Shen",
+        "Xiaotong Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13560v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:59:57Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "NLP",
+        "one_line_summary": "AutoDesign introduces meta-harness optimization to improve long-horizon agentic design tasks."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:28.875717+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13558v1"
+    },
+    "content": {
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "authors": [
+        "Bobo Li",
+        "Hao Fei",
+        "Tianjie Ju",
+        "Mong-Li Lee",
+        "Wynne Hsu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13558v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:59:52Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Multimodal",
+        "one_line_summary": "OmniScientist introduces an omni-modal and omni-discipline AI framework for scientific research."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:28.875744+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13555v1"
+    },
+    "content": {
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "authors": [
+        "Dairu Liu",
+        "Zekun Qi",
+        "Jiayu Zeng",
+        "Ruixi Yu",
+        "Yu Guan",
+        "Yintianrun Zhang",
+        "Xuchuan Chen",
+        "Sikai Liang",
+        "Zekai Li",
+        "Chenghuai Lin",
+        "Xinqiang Yu",
+        "Wenyao Zhang",
+        "He Wang",
+        "Li Yi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13555v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:59:40Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Computer Vision",
+        "one_line_summary": "A comprehensive benchmark designed for human-aligned motion tracking evaluation."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:28.875763+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13548v1"
+    },
+    "content": {
+      "title": "All-optical switching of nonlinear structured light in crystal-engineered van der Waals materials",
+      "authors": [
+        "Paolo Valisa",
+        "Marc Richstaetter",
+        "Bianca Sanfilippo",
+        "Benedikt Ursprung",
+        "Zhi Hao Peng",
+        "Victoria Quiros-Cordero",
+        "Francesco Gucci",
+        "Xiaoyang Zhu",
+        "P. James Schuck",
+        "Giulio Cerullo",
+        "Luca Carletti",
+        "Chiara Trovatello"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13548v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:58:28Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "Demonstrates all-optical switching of nonlinear structured light using crystal-engineered van der Waals materials."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:28.875779+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13547v1"
+    },
+    "content": {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "authors": [
+        "Shangao Li",
+        "Yao Zhang",
+        "Volker Tresp",
+        "Yuanyuan Yang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13547v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:57:20Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Safety",
+        "one_line_summary": "QuoteBench reveals how matched scores can mask critical command-path failures in AI models."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:28.875791+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13545v1"
+    },
+    "content": {
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "authors": [
+        "Fanfei Li",
+        "Jana Zeller",
+        "Manuel Prada-Corral",
+        "Thaddäus Wiedemer",
+        "Prasanna Mayilvahanan",
+        "Ryan Cotterell",
+        "Wieland Brendel"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13545v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:56:12Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "NLP",
+        "one_line_summary": "Investigates language models trained under pedagogically controlled knowledge exposure schedules."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:28.875804+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13522v1"
+    },
+    "content": {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "authors": [
+        "Zhe Ye",
+        "Hantao Lou",
+        "Yuechun Sun",
+        "Peiyang Song",
+        "Zhengxu Yan",
+        "Timothe Kasriel",
+        "Qingyang Zhang",
+        "Kaiyu Yang",
+        "Soonho Kong",
+        "Jingxuan He",
+        "Dawn Song"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13522v1",
+      "github_url": "https://github.com/sunblaze-ucb/vero",
+      "github_stars": null,
+      "published_date": "2026-08-13T17:41:27Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "NLP",
+        "one_line_summary": "Evaluates whether AI agents can successfully build formally verified software repositories."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.816919+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13520v1"
+    },
+    "content": {
+      "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+      "authors": [
+        "Martin J. Wainwright"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13520v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:40:17Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Computer Vision",
+        "one_line_summary": "We derive certified-optimal masking schedules for diffusion models using unmasking growth complexity."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.816973+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13517v1"
+    },
+    "content": {
+      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "authors": [
+        "Peter Schneider-Kamp",
+        "Jacob Nielsen",
+        "Gianluca Barmina",
+        "Kenneth Enevoldsen",
+        "Lukas Galke Poech"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13517v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:37:53Z",
+      "llm_extracted": {
+        "entityName": "DFM",
+        "topic_category": "NLP",
+        "one_line_summary": "DFM Mimir v1 is an open 1B parameter language model delivering frontier performance using permissible post-training data."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.817005+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13503v1"
+    },
+    "content": {
+      "title": "In-situ Adjoint Wave Control in Reconfigurable Non-Hermitian Nonlinear Systems",
+      "authors": [
+        "John Guillamon",
+        "William Tuxbury",
+        "Cheng-Zhen Wang",
+        "Owen Miller",
+        "Zin Lin",
+        "Tsampikos Kottos"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13503v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:30:19Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "We present a method for in-situ adjoint wave control in reconfigurable non-Hermitian nonlinear systems."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.817034+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13492v1"
+    },
+    "content": {
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+      "authors": [
+        "AlayaWorld Team",
+        "Kaipeng Zhang",
+        "Chuanhao Li",
+        "Yifan Zhan",
+        "Yongtao Ge",
+        "Yuanyang Yin",
+        "Jiaming Tan",
+        "Kang He",
+        "Liaoyuan Fan",
+        "Mingliang Zhai",
+        "Ruicong Liu",
+        "Xiaojie Xu",
+        "Xuangeng Chu",
+        "Zhen Li",
+        "Zhengyuan Lin",
+        "Zhixiang Wang",
+        "Zian Meng",
+        "Zihui Gao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13492v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:21:03Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Multimodal",
+        "one_line_summary": "AlayaWorld is an interactive long-horizon world modeling framework for generating consistent environment dynamics."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.817072+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13485v1"
+    },
+    "content": {
+      "title": "Macroscopic Stability of a Rapidly Rotating Theta Pinch",
+      "authors": [
+        "Richard Fitzpatrick"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13485v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:14:05Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "Analyzes the macroscopic stability of a rapidly rotating theta pinch plasma system."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.817092+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13484v1"
+    },
+    "content": {
+      "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+      "authors": [
+        "Dananjay Srinivas",
+        "Saksham Khatwani",
+        "Maria Pacheco"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13484v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:13:41Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "NLP",
+        "one_line_summary": "Probing large language models to evaluate their knowledge boundaries and referent specificity."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.817114+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13482v1"
+    },
+    "content": {
+      "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+      "authors": [
+        "Julian Minder",
+        "Viktor Moskvoretskii",
+        "Raghav Singhal",
+        "Difan Jiao",
+        "Andy Arditi",
+        "Shaobo Cui",
+        "Yiderigun Borjigin",
+        "Kartik Bali",
+        "Stefan Krsteski",
+        "Harsh Raj",
+        "Huu Nguyen",
+        "Jannik Brinkmann",
+        "Ashton Anderson",
+        "Roland Aydin",
+        "Robert West"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13482v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T17:12:04Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "NLP",
+        "one_line_summary": "Pretraining language models on synthetic persona data aligns them with desired behaviors from the start."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:43.817158+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13476v1"
+    },
+    "content": {
+      "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+      "authors": [
+        "Saisha Shetty",
+        "Satvik Tripathi",
+        "Austin Lin",
+        "Colin Zhao",
+        "Theodore Kim",
+        "Don Enwerem",
+        "Jacinta Arnold",
+        "Shahriar Faghani",
+        "Tessa S Cook"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13476v1",
+      "github_url": "https://github.com/Penn-RAIL/MARC-v1",
+      "github_stars": 3,
+      "published_date": "2026-08-13T17:00:08Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "NLP",
+        "one_line_summary": "An open-source multi-agent framework designed for clinical AI reasoning and coordination."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:52.340848+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13472v1"
+    },
+    "content": {
+      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+      "authors": [
+        "Mohammed Ayman Habib",
+        "Rylan Hart",
+        "Morteza Fayazi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13472v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T16:57:07Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "An end-to-end framework using large language models for analog circuit topology generation and sizing."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:52.340904+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13465v1"
+    },
+    "content": {
+      "title": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
+      "authors": [
+        "Christofer Washington Berruz Chungata",
+        "Martin Jurecek",
+        "Katerina Potika",
+        "William B. Andreopoulos",
+        "Mark Stamp"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13465v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T16:46:56Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "This paper presents methods for detecting concept drift and adaptively retraining malware classification models."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:52.340930+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13463v1"
+    },
+    "content": {
+      "title": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+      "authors": [
+        "Daniel Perkins",
+        "John Squires",
+        "Janou Milligan",
+        "Chandra Raskoti",
+        "Linda Ungerboeck"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13463v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T16:45:24Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Computer Vision",
+        "one_line_summary": "An MLLM-routed heterogeneous ensemble method improves robust cross-dataset image classification."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:52.340952+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13459v1"
+    },
+    "content": {
+      "title": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+      "authors": [
+        "Jim Woodcock",
+        "Gabriel Leite",
+        "Augusto Sampaio",
+        "Ran Wei"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13459v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T16:43:44Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "A novel contract-aware proof repair method for the Isabelle proof assistant."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:52.340973+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13456v1"
+    },
+    "content": {
+      "title": "A Unifying Perspective on Causal World Models: From Observations to Representations to Structure",
+      "authors": [
+        "Avinash Kori",
+        "Fabrizio Russo"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13456v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-13T16:40:35Z",
+      "llm_extracted": {
+        "entityName": null,
+        "topic_category": "Other",
+        "one_line_summary": "This paper provides a unifying theoretical perspective on causal world models across observations, representations, and structure."
+      }
+    },
+    "collectedAt": "2026-08-15T14:21:52.340992+00:00"
+  }
+]
