@@ -1,0 +1,4377 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14546v1"
+    },
+    "content": {
+      "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+      "authors": [
+        "Qinye Zhou",
+        "Jun Zheng",
+        "Yongchao Du",
+        "Yuan Wang",
+        "Zhengrui Chen",
+        "Zuan Gao",
+        "Taihang Hu",
+        "Chao Lin",
+        "Yefeng Shen",
+        "Xingjian Wang",
+        "Zhao Wang",
+        "Zhengtao Wu",
+        "Xiaoli Xu",
+        "Zhengze Xu",
+        "Hao Yan",
+        "Denghui Yang",
+        "Yuhang Yu",
+        "Huayu Zhang",
+        "Mingzhou Zhang",
+        "Mengting Chen"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14546v1",
+      "published_date": "2026-08-14T17:59:01Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673655+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14539v1"
+    },
+    "content": {
+      "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+      "authors": [
+        "Karel Becerra",
+        "Boris Mederos",
+        "Dean Snow",
+        "Ramón A. Mollineda"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14539v1",
+      "published_date": "2026-08-14T17:51:30Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673676+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14530v1"
+    },
+    "content": {
+      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+      "authors": [
+        "Zian Meng",
+        "Zhen Li",
+        "Chuanhao Li",
+        "Qiang Li",
+        "Kaipeng Zhang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14530v1",
+      "published_date": "2026-08-14T17:48:16Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673688+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14528v1"
+    },
+    "content": {
+      "title": "Handover of In-Context Learning State Across Session Boundaries",
+      "authors": [
+        "Masahiro Kato",
+        "Taka Kato"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14528v1",
+      "published_date": "2026-08-14T17:47:13Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673697+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14522v1"
+    },
+    "content": {
+      "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
+      "authors": [
+        "Taenyun Kim",
+        "Edyta Bogucka",
+        "Daniele Quercia"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14522v1",
+      "published_date": "2026-08-14T17:43:16Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673706+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14511v1"
+    },
+    "content": {
+      "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
+      "authors": [
+        "Yubo Zhang",
+        "Yiyao Liu",
+        "Xiaodong Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14511v1",
+      "published_date": "2026-08-14T17:29:07Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673713+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14509v1"
+    },
+    "content": {
+      "title": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
+      "authors": [
+        "Zhelun Wu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14509v1",
+      "published_date": "2026-08-14T17:24:55Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673720+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14505v1"
+    },
+    "content": {
+      "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+      "authors": [
+        "Pin-Yen Huang",
+        "Sachin Chhabra",
+        "Prasanth Sai Gouripeddi",
+        "Abhinav Kumar",
+        "Baoxin Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14505v1",
+      "published_date": "2026-08-14T17:18:36Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673728+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14502v1"
+    },
+    "content": {
+      "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+      "authors": [
+        "Juno Nam",
+        "Bowen Deng",
+        "Xiaochen Du",
+        "Luis Barroso-Luque",
+        "Benjamin Kurt Miller",
+        "Rafael Gómez-Bombarelli"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14502v1",
+      "published_date": "2026-08-14T17:16:27Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673737+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14496v1"
+    },
+    "content": {
+      "title": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
+      "authors": [
+        "Hao Yan",
+        "Lisa Pilgram",
+        "Dan Liu",
+        "Linglong Kong",
+        "Fida Dankar",
+        "Khaled El Emam"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14496v1",
+      "published_date": "2026-08-14T17:10:44Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673747+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14491v1"
+    },
+    "content": {
+      "title": "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows",
+      "authors": [
+        "Charitha Nandepu",
+        "Lohitha Kalepu",
+        "Gabriele Ciavarella",
+        "SangWoo Park"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14491v1",
+      "published_date": "2026-08-14T17:07:14Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673755+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14490v1"
+    },
+    "content": {
+      "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin",
+      "authors": [
+        "Alexy Skoutnev",
+        "Kirill Acharya",
+        "Gaston Longhitano",
+        "Madeleine Udell",
+        "Kevin Ellis",
+        "Iddo Drori"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14490v1",
+      "published_date": "2026-08-14T17:06:00Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673764+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14481v1"
+    },
+    "content": {
+      "title": "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes",
+      "authors": [
+        "Alexei Odinokov",
+        "Rostislav Yavorskiy"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14481v1",
+      "published_date": "2026-08-14T16:57:54Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673771+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14472v1"
+    },
+    "content": {
+      "title": "LP-NAS: Linear Programming-based Neural Architecture Search",
+      "authors": [
+        "Abhishek Shukla",
+        "Ankur Sinha",
+        "Faiz Hamid"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14472v1",
+      "published_date": "2026-08-14T16:53:11Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673780+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14456v1"
+    },
+    "content": {
+      "title": "Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments",
+      "authors": [
+        "Shahab Band",
+        "Hamed Mohammadi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14456v1",
+      "published_date": "2026-08-14T16:41:16Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673787+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14452v1"
+    },
+    "content": {
+      "title": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
+      "authors": [
+        "Panjing He",
+        "Mingyue Cheng",
+        "Yucong Luo",
+        "Li Li",
+        "Xiaohan Zhang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14452v1",
+      "published_date": "2026-08-14T16:39:16Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673796+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14446v1"
+    },
+    "content": {
+      "title": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
+      "authors": [
+        "Beatrice Alessandra Motetti",
+        "Emilien Guandalino",
+        "Daniele Jahier Pagliari",
+        "Alessio Burrello",
+        "Lorenz K. Müller",
+        "Konstantin Berestizshevsky",
+        "Lukas Cavigelli"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14446v1",
+      "published_date": "2026-08-14T16:31:43Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673805+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14443v1"
+    },
+    "content": {
+      "title": "Designing Compact Neural Architectures via Neuron Gating and Mixed Activation",
+      "authors": [
+        "Abhishek Shukla",
+        "Ankur Sinha",
+        "Faiz Hamid"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14443v1",
+      "published_date": "2026-08-14T16:28:32Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673812+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14441v1"
+    },
+    "content": {
+      "title": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+      "authors": [
+        "Yuhao Zhan",
+        "Bingxiang He",
+        "Zecong Tang",
+        "Chaojun Xiao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14441v1",
+      "published_date": "2026-08-14T16:25:43Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673820+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14426v1"
+    },
+    "content": {
+      "title": "The Dynamics of Intelligence Explosions",
+      "authors": [
+        "Toby Ord"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14426v1",
+      "published_date": "2026-08-14T16:07:51Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673826+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14425v1"
+    },
+    "content": {
+      "title": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
+      "authors": [
+        "Toby D. Pilditch"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14425v1",
+      "published_date": "2026-08-14T16:06:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673832+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14418v1"
+    },
+    "content": {
+      "title": "STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X",
+      "authors": [
+        "Yasir Ech-Chammakhy",
+        "Oussama Azrara",
+        "Jaafar Chbili",
+        "Anas Motii"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14418v1",
+      "published_date": "2026-08-14T15:59:56Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673840+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14407v1"
+    },
+    "content": {
+      "title": "The Past and Future of AI Scientists",
+      "authors": [
+        "Ross D. King"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14407v1",
+      "published_date": "2026-08-14T15:50:35Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673846+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14405v1"
+    },
+    "content": {
+      "title": "From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework",
+      "authors": [
+        "Wen-Fan Wang",
+        "TsaiHsuan Lin",
+        "Chi-Lan Yang",
+        "An-Ru Cheng",
+        "Bing-Yu Chen"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14405v1",
+      "published_date": "2026-08-14T15:46:23Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673856+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14399v1"
+    },
+    "content": {
+      "title": "Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice",
+      "authors": [
+        "Syeda Anshrah Gillani",
+        "Mirza Samad Ahmed Baig"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14399v1",
+      "published_date": "2026-08-14T15:39:10Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673864+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14397v1"
+    },
+    "content": {
+      "title": "LLMs Don't Pay for the Jump",
+      "authors": [
+        "Paras Balani",
+        "Subhrakanta Panda"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14397v1",
+      "published_date": "2026-08-14T15:36:35Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673871+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14396v1"
+    },
+    "content": {
+      "title": "AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block",
+      "authors": [
+        "Kenan Xu",
+        "Xiangfeng Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14396v1",
+      "published_date": "2026-08-14T15:36:32Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673878+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14392v1"
+    },
+    "content": {
+      "title": "Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons",
+      "authors": [
+        "Wei Zhao",
+        "Zhe Li",
+        "Peixin Zhang",
+        "Jun Sun"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14392v1",
+      "published_date": "2026-08-14T15:33:11Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673886+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14391v1"
+    },
+    "content": {
+      "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
+      "authors": [
+        "Shuo Liang",
+        "Yixing Ma",
+        "Pengfei Zhou",
+        "Xingyan Chen",
+        "Zihan Mei",
+        "Manting Li",
+        "Feihan Chen",
+        "Zhiwen Wang",
+        "Bin Xu",
+        "Haotian Zhang",
+        "Jiajun Song",
+        "Shiya Su",
+        "Run Liu",
+        "Zhenghang Ni",
+        "Yifa Yu",
+        "Jintao Hong",
+        "Bolong Feng",
+        "Yifei Liu",
+        "Zirui Zhang",
+        "Jingxuan Zhang",
+        "Songlin Zhao",
+        "Yifan Bai",
+        "Kang Tan",
+        "Yizhe Liu",
+        "Junhao Du",
+        "Yongtao Ge",
+        "Zhaopan Xv",
+        "Xinyuan Zhang",
+        "Mengru Ma",
+        "Chunhua Shen",
+        "Wei Wang",
+        "Yang You",
+        "Zheng Zhu",
+        "Kaipeng Zhang",
+        "Wangbo Zhao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14391v1",
+      "published_date": "2026-08-14T15:32:56Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673908+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14389v1"
+    },
+    "content": {
+      "title": "GBU-Palm: A Multimodal Video Dataset and Benchmark for Palm Presentation Attack Detection",
+      "authors": [
+        "Yingjie Ma",
+        "Zitong Yu",
+        "Wei Jia",
+        "Ajay Kumar",
+        "Linlin Shen"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14389v1",
+      "published_date": "2026-08-14T15:31:48Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673916+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14385v1"
+    },
+    "content": {
+      "title": "DeaMoE: Efficient MoE Structure for Fast Small-Batch Decoding",
+      "authors": [
+        "Zewen Jin",
+        "Shen Fu",
+        "Zeping Duan",
+        "Shannon Wang",
+        "Weihao Wu",
+        "Chengjie Tang",
+        "Congkun Ai",
+        "Ping Gong",
+        "Zijian Dai",
+        "Youhui Bai",
+        "Cheng Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14385v1",
+      "published_date": "2026-08-14T15:25:32Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673927+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14380v1"
+    },
+    "content": {
+      "title": "AgentRewind: Recoverable Execution for Long-Horizon LLM Agents",
+      "authors": [
+        "Yu Zhuang",
+        "Kefei Chen",
+        "Yitong Duan",
+        "Shuxin Zheng",
+        "Jian Li",
+        "Xu-Yao Zhang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14380v1",
+      "published_date": "2026-08-14T15:20:35Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673937+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14379v1"
+    },
+    "content": {
+      "title": "Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation",
+      "authors": [
+        "Yuxuan Chen",
+        "Wanruo Zhang",
+        "Xiao Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14379v1",
+      "published_date": "2026-08-14T15:19:04Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673944+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14377v1"
+    },
+    "content": {
+      "title": "A Survey of Large Models in Sports",
+      "authors": [
+        "Yichen Xu",
+        "Jianzhe Ma",
+        "Chuhan Wang",
+        "Zhonghao Cao",
+        "Liangyu Chen",
+        "Wenxuan Wang",
+        "Qin Jin"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14377v1",
+      "published_date": "2026-08-14T15:17:54Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673953+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14375v1"
+    },
+    "content": {
+      "title": "Wrong but Useful: Trajectory Value Beyond Answer Correctness in Multi-Agent Messages",
+      "authors": [
+        "Chih-Hsuan Yang",
+        "Anjir Ahmed Chowdhury",
+        "Cheng-Hau Yang",
+        "Weijian Zheng",
+        "Fernando Llorente",
+        "Xiaolong Ma",
+        "Xinyang Li",
+        "Eliu A. Huerta",
+        "Ian T. Foster",
+        "Rajeev Thakur"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14375v1",
+      "published_date": "2026-08-14T15:16:57Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673965+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14370v1"
+    },
+    "content": {
+      "title": "A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models",
+      "authors": [
+        "Md Kamrul Islam",
+        "Tiphaine Henry",
+        "Mattia Salnitri",
+        "Julius Köpke",
+        "Sami Souihi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14370v1",
+      "published_date": "2026-08-14T15:11:10Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.673977+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14367v1"
+    },
+    "content": {
+      "title": "Mind the Long Tail: Understanding the Difficulty of Delay Detection in Business Processes",
+      "authors": [
+        "Keyvan Amiri Elyasi",
+        "Lukas Kirchdorfer",
+        "Heiner Stuckenschmidt"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14367v1",
+      "published_date": "2026-08-14T15:08:14Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674060+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14359v1"
+    },
+    "content": {
+      "title": "Designing Sustainable Federated Learning as a Service using Neural Architecture Search",
+      "authors": [
+        "Keya Patel",
+        "Sajib Mistry",
+        "Sheik Fattah",
+        "Deepak Kanneganti",
+        "Aneesh Krishna",
+        "Mufti Mahmud",
+        "Monowar Bhuyan"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14359v1",
+      "published_date": "2026-08-14T15:00:39Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674312+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14356v1"
+    },
+    "content": {
+      "title": "Designing Inclusive Crypto-Asset Dispute Resolution A Hybrid AI and Smart Contract Online Dispute Resolution Framework for Vulnerable Users",
+      "authors": [
+        "Gioia Arnone",
+        "Marco Giacalone"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14356v1",
+      "published_date": "2026-08-14T14:56:51Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674366+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14355v1"
+    },
+    "content": {
+      "title": "Disentangled Shared Representations Improve Morpho-Transcriptomic Integration",
+      "authors": [
+        "Julian Ostermaier",
+        "Swann Ruyter",
+        "Reuben Dorent",
+        "Daniel Racoceanu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14355v1",
+      "published_date": "2026-08-14T14:56:31Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674380+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14354v1"
+    },
+    "content": {
+      "title": "ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond",
+      "authors": [
+        "Mingming Zhao",
+        "Jiqian Dong",
+        "Kangping Xu",
+        "Zadid Hasan",
+        "Chengrui Fan",
+        "Shan Jiang",
+        "Shuai Mao",
+        "Ting Lingya",
+        "Linyi Zou",
+        "Tailin Zhou",
+        "Yun Hin Chan",
+        "Wenkai Zhang",
+        "Zhanhong Zhou",
+        "Guowei Huang",
+        "Hongliang Li",
+        "Wenjing Cun",
+        "Zhitang Chen",
+        "Mingxuan Yuan",
+        "Yanhui Geng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14354v1",
+      "published_date": "2026-08-14T14:54:01Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674560+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14339v1"
+    },
+    "content": {
+      "title": "Clearing the Fog: Towards Installing and Refining Proactive Exploration Capabilities in LLM Agents",
+      "authors": [
+        "Zhizhao Guan",
+        "Chen Huang",
+        "Ziming Liu",
+        "Hongru Liang",
+        "Wenqiang Lei",
+        "See-Kiong Ng",
+        "Tat-Seng Chua",
+        "Anthony G Cohn"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14339v1",
+      "published_date": "2026-08-14T14:24:50Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674708+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14330v1"
+    },
+    "content": {
+      "title": "Program-space Diffusion for Morphology-to-Transcriptomics Prediction",
+      "authors": [
+        "Ruyter Swann",
+        "Dorent Reuben",
+        "Racoceanu Daniel"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14330v1",
+      "published_date": "2026-08-14T14:20:40Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674720+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14329v1"
+    },
+    "content": {
+      "title": "A Four-Axis Trustworthiness Benchmark for LLM-as-Judge in Principle-Based Regulation",
+      "authors": [
+        "Dipankar Sarkar"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14329v1",
+      "published_date": "2026-08-14T14:20:38Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674731+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14320v1"
+    },
+    "content": {
+      "title": "AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs",
+      "authors": [
+        "Yiderigun Borjigin",
+        "Alexander Hermann",
+        "Christian Cyron",
+        "Roland Aydin"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14320v1",
+      "published_date": "2026-08-14T14:04:42Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674748+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14317v1"
+    },
+    "content": {
+      "title": "Intelligent Detection of Mechanical, Electrical, and Plumbing (MEP) Metrics Based on 2D Floor Plans",
+      "authors": [
+        "Tarandeep Singh Mandhiratta",
+        "ANK Zaman",
+        "Abdul-Rahman Mawlood-Yunis"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14317v1",
+      "published_date": "2026-08-14T13:59:55Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674756+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14306v1"
+    },
+    "content": {
+      "title": "Sensor-Driven Mission Synthesis for UAV/UGV Swarms: A TB-CSPN Coordination Architecture with Hardware-Enforced Safety",
+      "authors": [
+        "Uwe M. Borghoff",
+        "Paolo Bottoni",
+        "Remo Pareschi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14306v1",
+      "published_date": "2026-08-14T13:44:10Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674764+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14291v1"
+    },
+    "content": {
+      "title": "Human and Artificial Intelligence - Promoting Trustworthy and Understandable Collaboration",
+      "authors": [
+        "Gilbert Drzyzga"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14291v1",
+      "published_date": "2026-08-14T13:22:55Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674771+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14290v1"
+    },
+    "content": {
+      "title": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+      "authors": [
+        "Kai Chen",
+        "Jifeng Ding",
+        "Ning Ding",
+        "Jiaye Ge",
+        "Lixin Gu",
+        "Yicheng Gu",
+        "Qipeng Guo",
+        "Ermo Hua",
+        "Haian Huang",
+        "Haozheng Hou",
+        "Jie Hou",
+        "Xiangyu Hong",
+        "Che Jiang",
+        "Minxi Jin",
+        "Cheng Liang",
+        "Dahua Lin",
+        "Dawei Liu",
+        "Kuikun Liu",
+        "Chengqi Lv",
+        "Haijun Lv",
+        "Han Lv",
+        "Ningsheng Ma",
+        "Biqing Qi",
+        "Jianmin Qian",
+        "Shiya Su",
+        "Youbang Sun",
+        "Huanze Tang",
+        "Zhongbo Tian",
+        "Hanjing Wang",
+        "Rui Wang",
+        "Ting Wang",
+        "Yi Wang",
+        "Baiting Wu",
+        "Jun Xu",
+        "Bowen Yang",
+        "Hui Wang",
+        "Weida Wang",
+        "Haochen Ye",
+        "Jiashuo Yu",
+        "Shan Yu",
+        "Xiaoyi Yu",
+        "Qirui Zeng",
+        "Qi Zhang",
+        "Ming Zhang",
+        "Wenwei Zhang",
+        "Bowen Zhou",
+        "Xinyu Zhou"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14290v1",
+      "published_date": "2026-08-14T13:21:49Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674802+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14287v1"
+    },
+    "content": {
+      "title": "Acoustic UAV Detection in Battlefield Scenarios: Handling Noise, Domain Shift, and Weak Labels",
+      "authors": [
+        "Vadym Vilhurin",
+        "Volodymyr Sydorskyi",
+        "Andrii Shevtsov"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14287v1",
+      "published_date": "2026-08-14T13:20:46Z"
+    },
+    "collectedAt": "2026-08-17T02:25:14.674812+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14286v1"
+    },
+    "content": {
+      "title": "Seeing Red, Thinking Bad: Color Bias in Vision Language Models",
+      "authors": [
+        "Kohsuke Ide",
+        "Ryousuke Yamada",
+        "Yoshihiro Fukuhara",
+        "Hirokatsu Kataoka",
+        "Yutaka Satoh"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14286v1",
+      "published_date": "2026-08-14T13:14:58Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270471+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14284v1"
+    },
+    "content": {
+      "title": "PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment",
+      "authors": [
+        "Yuyang Liu",
+        "Yanqing Shen",
+        "Ruike Chen",
+        "Jifan Zhao",
+        "Yuxuan Tian",
+        "Yichi Zhang",
+        "Tianfeng Long",
+        "Zixuan Yin",
+        "Yipu Wang",
+        "Ziheng Qin",
+        "Wenxing Tan",
+        "Yang Shi",
+        "Mingyu Cao",
+        "Runze Xiao",
+        "Ziqi Wang",
+        "Zhixin Yin",
+        "Shiwei Chu",
+        "Yi-Fan Zhang",
+        "Yao Mu",
+        "Yuheng Ji",
+        "Yihao Wang",
+        "Jun Yan",
+        "Zhongyuan Wang",
+        "Pengwei Wang",
+        "Xiaolong Zheng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14284v1",
+      "published_date": "2026-08-14T13:10:02Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270498+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14277v1"
+    },
+    "content": {
+      "title": "SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning",
+      "authors": [
+        "Haonan He",
+        "Haodi Lei",
+        "Yun Luo",
+        "Haoran Zhang",
+        "Shunkai Zhang",
+        "Yizhuo Li",
+        "Shengji Tang",
+        "Zhilin Wang",
+        "Runzhe Zhan",
+        "Lei Bai",
+        "Ganqu Cui",
+        "Fangchen Yu",
+        "Yafu Li",
+        "Peng Ye",
+        "Ning Ding",
+        "Yu Cheng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14277v1",
+      "published_date": "2026-08-14T12:57:02Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270513+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14270v1"
+    },
+    "content": {
+      "title": "TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments",
+      "authors": [
+        "Qingren Yao",
+        "Yaxuan Kong",
+        "Yuqi Nie",
+        "Yichen Li",
+        "Stefan Zohren",
+        "Anna Vettoruzzo",
+        "Qingsong Wen",
+        "Ming Jin",
+        "Joaquin Vanschoren"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14270v1",
+      "published_date": "2026-08-14T12:53:21Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270523+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14264v1"
+    },
+    "content": {
+      "title": "Multi-Objective Bayesian Optimization for Model Merging",
+      "authors": [
+        "Utkarsh Agarwal",
+        "Vamshi Bonagiri",
+        "Raul Astudillo",
+        "Monojit Choudhury"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14264v1",
+      "published_date": "2026-08-14T12:41:37Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270530+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14254v1"
+    },
+    "content": {
+      "title": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions Enables Proactive Public Health Response",
+      "authors": [
+        "Timothy C. Pearce",
+        "David J. T. Smith",
+        "Alec Dobney",
+        "Alessia Freddo"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14254v1",
+      "published_date": "2026-08-14T12:32:12Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270539+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14252v1"
+    },
+    "content": {
+      "title": "Grounding Without Corrective Control: Truth-Tracking Profiles for Large Language Models",
+      "authors": [
+        "Brett Reynolds"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14252v1",
+      "published_date": "2026-08-14T12:30:19Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270545+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14250v1"
+    },
+    "content": {
+      "title": "Why Performance Metrics Overpromise in Auditory Attention Decoding: an Information-Theoretic Reappraisal",
+      "authors": [
+        "Nicolas Heintz",
+        "Simon Geirnaert",
+        "Tom Francart",
+        "Alexander Bertrand"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14250v1",
+      "published_date": "2026-08-14T12:29:39Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270554+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14246v1"
+    },
+    "content": {
+      "title": "Polaris : Multi Agentic System for Conversational Enterprise Analytics",
+      "authors": [
+        "Varuni H K",
+        "Soham Sarkar",
+        "Jay Kumar",
+        "Goutham Krishnan",
+        "Tanvi Johari",
+        "Avinash Bharadwaj",
+        "Santosh Hegde"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14246v1",
+      "published_date": "2026-08-14T12:26:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270563+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14235v1"
+    },
+    "content": {
+      "title": "AppleScab-LT: A Longitudinal Real-Field Apple Scab Dataset for Temporal Disease Progression Analysis",
+      "authors": [
+        "Aamir Hilal",
+        "Shabir Ahmad Sofi",
+        "Neeraj Goel"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14235v1",
+      "published_date": "2026-08-14T12:10:15Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270572+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14227v1"
+    },
+    "content": {
+      "title": "Attributing Preprocessing Invariance in Spectral Foundation Models",
+      "authors": [
+        "Dongjun Wei",
+        "Hongyi Wu",
+        "Yinuo Zou"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14227v1",
+      "published_date": "2026-08-14T12:01:27Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270579+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14221v1"
+    },
+    "content": {
+      "title": "MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement",
+      "authors": [
+        "Lushi Pu",
+        "Weiming Zhang",
+        "Xinheng Xie",
+        "Zixuan Fu",
+        "Bingxiang He",
+        "Hengyu Zhao",
+        "Hongya Lyu",
+        "Xin Li",
+        "Jie Zhou",
+        "Yudong Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14221v1",
+      "published_date": "2026-08-14T11:51:12Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270590+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14220v1"
+    },
+    "content": {
+      "title": "A Generalized Parallelogram Rule for Proportional Analogies on Riemannian Manifolds",
+      "authors": [
+        "Pierre-Alexandre Murena",
+        "Marcelo Hartmann"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14220v1",
+      "published_date": "2026-08-14T11:50:08Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270597+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14212v1"
+    },
+    "content": {
+      "title": "APTER: Adaptive Post-Training with Expert-Grounded Rubrics",
+      "authors": [
+        "Xukai Wang",
+        "Liangqi Li",
+        "Zhiyue Xu",
+        "Jingang Zhou",
+        "Xiaoyu Shi",
+        "Jiansheng Cai",
+        "Bo Zhang",
+        "Zhe Li",
+        "Xu-Yao Zhang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14212v1",
+      "published_date": "2026-08-14T11:42:29Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270607+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14211v1"
+    },
+    "content": {
+      "title": "Training Fair Tabular Foundation Models",
+      "authors": [
+        "Patrik Kenfack",
+        "Jesse C. Cresswell",
+        "Anthony L. Caterini",
+        "Samira Ebrahimi Kahou",
+        "Ulrich Aïvodji"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14211v1",
+      "published_date": "2026-08-14T11:40:04Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270615+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14210v1"
+    },
+    "content": {
+      "title": "How Much Do Legal RAG Systems Still Hallucinate?",
+      "authors": [
+        "Souvick Das",
+        "Sallam Abualhaija",
+        "Domenico Bianculli"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14210v1",
+      "published_date": "2026-08-14T11:39:17Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270622+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14206v1"
+    },
+    "content": {
+      "title": "Synthesizing In-Bulk Topological Corner States via Giant Atoms",
+      "authors": [
+        "Zhao-Min Gao",
+        "Xin Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14206v1",
+      "published_date": "2026-08-14T11:31:28Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270628+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14205v1"
+    },
+    "content": {
+      "title": "FreeBalance: Pre-Routing Online Moe Load Balancing via Residual Workload Prediction",
+      "authors": [
+        "Pengfei Chen",
+        "Yize Wu",
+        "Shouxu Kuang",
+        "Ke Gao",
+        "Ling Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14205v1",
+      "published_date": "2026-08-14T11:30:39Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270637+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14179v1"
+    },
+    "content": {
+      "title": "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding",
+      "authors": [
+        "Jeongwan Shin",
+        "Jaehyeon Kim",
+        "Donguk Ko",
+        "Jaeho Choi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14179v1",
+      "published_date": "2026-08-14T10:49:39Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270644+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14178v1"
+    },
+    "content": {
+      "title": "LightTeaNet: A Weakly Supervised Lightweight CNN for Multi-Label Tea Leaf Disease Detection and Localization",
+      "authors": [
+        "Naif Haider Chowdhury",
+        "Md Rahim",
+        "Syed Farhan Hasan",
+        "Murad Hasan",
+        "Prithwiraj Bhattacharjee"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14178v1",
+      "published_date": "2026-08-14T10:48:58Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270652+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14177v1"
+    },
+    "content": {
+      "title": "Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction",
+      "authors": [
+        "Xuanmian He",
+        "Can Li",
+        "Wanjing Ma"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14177v1",
+      "published_date": "2026-08-14T10:46:37Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270661+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14172v1"
+    },
+    "content": {
+      "title": "Concept Guidance: Precise, Training-Free Latent Control for Text-to-Image Generation",
+      "authors": [
+        "Nikolai Röhrich",
+        "Isabell Hans",
+        "Felix Krause",
+        "Björn Ommer"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14172v1",
+      "published_date": "2026-08-14T10:35:34Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270669+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14161v1"
+    },
+    "content": {
+      "title": "BiasTrace: Linking Reasoning Behaviours to Biased Outputs in LLMs",
+      "authors": [
+        "Varsha Ramineni",
+        "Hossein A. Rahmani",
+        "Jerome Ramos",
+        "Karin Sevegnani",
+        "Emine Yilmaz"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14161v1",
+      "published_date": "2026-08-14T10:16:13Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270678+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14157v1"
+    },
+    "content": {
+      "title": "Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine",
+      "authors": [
+        "Chenran Weng",
+        "Joo Seung Lee",
+        "Malini Mahendra",
+        "Anil Aswani"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14157v1",
+      "published_date": "2026-08-14T10:11:03Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270686+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14152v1"
+    },
+    "content": {
+      "title": "Towards Efficient Multimodal and Multilingual Opinion Extraction for STI: A QLoRA-Based Fine-Tuning Approach",
+      "authors": [
+        "Sheng Hong",
+        "Xuanqi Wang",
+        "Jiacheng Wang",
+        "Yuwei Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14152v1",
+      "published_date": "2026-08-14T10:02:55Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270693+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14149v1"
+    },
+    "content": {
+      "title": "QuaSAR: Quantization Compensation via Stable Activation-Aware Rank Truncation",
+      "authors": [
+        "Lin-Fa Lee",
+        "Yi-Yu Chang",
+        "Kuo-Hei Yeh"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14149v1",
+      "published_date": "2026-08-14T10:00:36Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270700+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14144v1"
+    },
+    "content": {
+      "title": "Self-Supervised Visual On-Policy Distillation",
+      "authors": [
+        "Yijiang Li",
+        "Yijun Liang",
+        "Yunjie Tian",
+        "Bingyang Wang",
+        "Ke Zhang",
+        "Zhenfei Yin",
+        "Di Fu",
+        "Philip Torr",
+        "Nuno Vasconcelos"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14144v1",
+      "published_date": "2026-08-14T09:52:01Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270710+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14138v1"
+    },
+    "content": {
+      "title": "SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation",
+      "authors": [
+        "Jinsheng Quan",
+        "Jianhua Li",
+        "Siyi Xie",
+        "Xuanke Shi",
+        "Kewang Deng",
+        "Zukai Chen",
+        "Feifei Shao",
+        "Lei Yang",
+        "Quan Wang",
+        "Yawei Luo"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14138v1",
+      "published_date": "2026-08-14T09:44:37Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270721+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14136v1"
+    },
+    "content": {
+      "title": "HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting",
+      "authors": [
+        "Wei Zhang",
+        "Shengkai Yu",
+        "Shiqiang Gong",
+        "Qi Zhang",
+        "Qiang Li",
+        "Qi Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14136v1",
+      "published_date": "2026-08-14T09:41:58Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270729+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14132v1"
+    },
+    "content": {
+      "title": "Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions",
+      "authors": [
+        "Xiaokai Yan",
+        "Jingtao Ding",
+        "Yong Li",
+        "Zhiwen Yu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14132v1",
+      "published_date": "2026-08-14T09:36:59Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270737+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14130v1"
+    },
+    "content": {
+      "title": "AlignFace: Human-Aligned Face Similarity Metric with Interpretable Concept Relations",
+      "authors": [
+        "Ying Huang",
+        "Wencan Zhang",
+        "Brian Y. Lim"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14130v1",
+      "published_date": "2026-08-14T09:36:28Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270745+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14126v1"
+    },
+    "content": {
+      "title": "BGA: A noise-immune neural distillation framework for malicious signature extraction in high-entropy encrypted flows",
+      "authors": [
+        "Sheng Hong",
+        "Yixuan Huang",
+        "Weiwei Jiang",
+        "Junyuan Zhang",
+        "Jiacheng Wang",
+        "Ruijian Jiao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14126v1",
+      "published_date": "2026-08-14T09:33:16Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270754+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14125v1"
+    },
+    "content": {
+      "title": "Traj-LeWM: Path-Aware World-Model Planning via Latent Trajectory Cost",
+      "authors": [
+        "Xiaodi Huang",
+        "Ziyi Ding",
+        "Jingtian Wan",
+        "Yuchen Liu",
+        "Yuan Zhang",
+        "Xiao-Ping Zhang",
+        "Jiayu Chen",
+        "Zhang Zhang",
+        "Tao Huang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14125v1",
+      "published_date": "2026-08-14T09:32:38Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270764+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14122v1"
+    },
+    "content": {
+      "title": "Reinforcement Learning-Based Production Scheduling in an Industry-Based Coating Scenario Using the Digital Model Playground",
+      "authors": [
+        "Arne Kröger",
+        "Ralf Buschermöhle",
+        "Wilhelm Hasselbring",
+        "Henrik Wilbers"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14122v1",
+      "published_date": "2026-08-14T09:28:20Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270772+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14121v1"
+    },
+    "content": {
+      "title": "Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance",
+      "authors": [
+        "Taraneh Younesian",
+        "Steve Azzolin",
+        "Antonio Longa",
+        "Francesco Ferrini",
+        "Vincenzo Marco De Luca",
+        "Stefano Teso"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14121v1",
+      "published_date": "2026-08-14T09:27:06Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270780+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14120v1"
+    },
+    "content": {
+      "title": "From Fixed Grids to Moving Particles:A Transferable Latent Operator for Fluid Dynamics",
+      "authors": [
+        "Meng Li",
+        "Chuqi Chen",
+        "Zhengqing Gao",
+        "Xi Zhou",
+        "Xiao Sun",
+        "Yang Xiang",
+        "Huaxi Huang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14120v1",
+      "published_date": "2026-08-14T09:26:02Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270789+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14112v1"
+    },
+    "content": {
+      "title": "Fixed-Budget Gaussian Volume Encoding with Structure-Aware Allocation",
+      "authors": [
+        "Michael R. Martin",
+        "Joseph Insley",
+        "Victor A. Mateevitsi",
+        "Silvio Rizzi",
+        "Kwan-Liu Ma"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14112v1",
+      "published_date": "2026-08-14T09:15:35Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270797+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14109v1"
+    },
+    "content": {
+      "title": "A Graph-Based Reinforcement Learning Framework for Structured Drift Diagnosis and Recovery in Autonomous LLM Agents",
+      "authors": [
+        "Ismail El Hamraoui",
+        "Sagar Jose",
+        "Nicolas Bureau",
+        "Robert Plana"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14109v1",
+      "published_date": "2026-08-14T09:12:14Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270805+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14107v1"
+    },
+    "content": {
+      "title": "Retrieval Grounding Latent Reasoning for Dense Retrieval",
+      "authors": [
+        "Gang Zhou",
+        "Xiongxi Yu",
+        "Hu Tian",
+        "Yang Wei",
+        "Lu Pan",
+        "Ke Zeng",
+        "Shibiao Xu",
+        "Xiaolong Zheng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14107v1",
+      "published_date": "2026-08-14T09:08:03Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270814+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14106v1"
+    },
+    "content": {
+      "title": "Forecast Collapse in Time-Series Foundation Models",
+      "authors": [
+        "Shu Wan",
+        "Miles Ma",
+        "Hank Zhu",
+        "Guangqi Liu",
+        "Stephen Wang",
+        "Qingsong Wen",
+        "Huan Liu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14106v1",
+      "published_date": "2026-08-14T09:08:02Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270823+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14104v1"
+    },
+    "content": {
+      "title": "Rewrite Once, Validate Anywhere: Producing OWL-Aware SHACL Constraints (Extended Version)",
+      "authors": [
+        "Anouk Oudshoorn",
+        "Piotr Gorczyca",
+        "Dörthe Arndt"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14104v1",
+      "published_date": "2026-08-14T09:06:10Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270832+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14094v1"
+    },
+    "content": {
+      "title": "P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems",
+      "authors": [
+        "Myunghoon Ryu",
+        "Geunpyo Park",
+        "Sungjoon Lee",
+        "XinYu Piao",
+        "Jong-Kook Kim"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14094v1",
+      "published_date": "2026-08-14T08:56:11Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270841+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14089v1"
+    },
+    "content": {
+      "title": "Regime-Conditional Verification: Correctness Estimation for Adapting and Monitoring Safety Classifiers",
+      "authors": [
+        "Thiago Sandoval",
+        "Ufuk Topcu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14089v1",
+      "published_date": "2026-08-14T08:50:51Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270847+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14086v1"
+    },
+    "content": {
+      "title": "Integrated Sensing, Communication, and Computing in Multi-Tier Systems: Joint Hybrid Beamforming Design and Computation Resource Allocation",
+      "authors": [
+        "Peng Liu",
+        "Zesong Fei",
+        "Xinyi Wang",
+        "Qiao Qi",
+        "Zhaohui Yang",
+        "Meng Hua",
+        "Arumugam Nallanathan"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14086v1",
+      "published_date": "2026-08-14T08:48:37Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270856+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14076v1"
+    },
+    "content": {
+      "title": "Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation",
+      "authors": [
+        "Kaipeng Zeng",
+        "Wenxi Zhai",
+        "Shengrui Xu",
+        "Jie Zhao",
+        "Bowen Li",
+        "Shiyue Wang",
+        "Junchi Yan",
+        "Tong Zhu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14076v1",
+      "published_date": "2026-08-14T08:37:54Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270865+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14075v1"
+    },
+    "content": {
+      "title": "A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientific Images",
+      "authors": [
+        "Jennifer D'Souza",
+        "Fahad Ahmed",
+        "Cecilia Andrea Bustamante Andrade",
+        "Lina Frolova",
+        "Poorani Gnanasambandan",
+        "Dilshad Hussain",
+        "Muhammad Uzair Khan",
+        "Nkembeng Kevin Nkengfoa",
+        "Paul Praveen J.",
+        "Fabio Priante",
+        "Sjoerd Franciscus van der Werf",
+        "Thomas Frederik Jan van Roeden"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14075v1",
+      "published_date": "2026-08-14T08:34:33Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270876+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14074v1"
+    },
+    "content": {
+      "title": "Mandato: Protocol-Level Enforcement of Digitally Signed Mandates on AI Agent Actions with Cryptographically Chained Audit Trails",
+      "authors": [
+        "Giovanni Racioppi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14074v1",
+      "published_date": "2026-08-14T08:33:43Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270882+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14071v1"
+    },
+    "content": {
+      "title": "Scaling Domain Data Repetition in LLM Pretraining",
+      "authors": [
+        "Jingwei Li",
+        "Xinran Gu",
+        "Rui Dai",
+        "Xintong Hao",
+        "Chengyin Xu",
+        "Yan Wu",
+        "Shuran Zheng",
+        "Jingzhao Zhang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14071v1",
+      "published_date": "2026-08-14T08:27:15Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270891+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14068v1"
+    },
+    "content": {
+      "title": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
+      "authors": [
+        "Juli Huang",
+        "Hannah Clay",
+        "Sajjad Beygi",
+        "Thomas Sarda",
+        "Negin Golrezaei",
+        "Amin Saberi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14068v1",
+      "published_date": "2026-08-14T08:26:19Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270900+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14065v1"
+    },
+    "content": {
+      "title": "Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency",
+      "authors": [
+        "Junchi Liu",
+        "Ali Bigdeli",
+        "Roya Daneshi",
+        "Atu Ambala",
+        "Sudipto Ghosh",
+        "Fabio Santos"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14065v1",
+      "published_date": "2026-08-14T08:23:25Z"
+    },
+    "collectedAt": "2026-08-17T02:25:19.270908+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14063v1"
+    },
+    "content": {
+      "title": "Benchmarking data-driven material models on the classic Treloar dataset",
+      "authors": [
+        "Hagen Holthusen",
+        "Moritz Flaschel",
+        "Denisa Martonová",
+        "Ellen Kuhl"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14063v1",
+      "published_date": "2026-08-14T08:21:26Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289221+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14058v1"
+    },
+    "content": {
+      "title": "Voxel-based 3D Facies Segmentation from Seismic Data: A Comparative Study",
+      "authors": [
+        "Duc-Thanh Pham",
+        "Minh-Tan Pham",
+        "Anh Nguyen",
+        "Van Nguyen"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14058v1",
+      "published_date": "2026-08-14T08:05:31Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289245+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14047v1"
+    },
+    "content": {
+      "title": "Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use",
+      "authors": [
+        "Yi Ding",
+        "Yanzhao Yu",
+        "Xili Dai",
+        "Xianbiao Qi",
+        "Peiwen Sun",
+        "Xueqian Wang",
+        "Xiangyu Yue",
+        "Jianan Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14047v1",
+      "published_date": "2026-08-14T07:53:18Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289262+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14044v1"
+    },
+    "content": {
+      "title": "Global existence analysis for a class of compressible Navier-Stokes-Korteweg equations",
+      "authors": [
+        "Ansgar Jüngel",
+        "Flora Philipp"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14044v1",
+      "published_date": "2026-08-14T07:43:49Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289272+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14036v1"
+    },
+    "content": {
+      "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+      "authors": [
+        "Zhiyuan Jiang",
+        "Fangrui Huang",
+        "Hanwen Xing",
+        "Xander Wu",
+        "Yipeng Gao",
+        "Rui Cao",
+        "Mengdi Wang",
+        "Shilong Liu",
+        "Yijiang Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14036v1",
+      "published_date": "2026-08-14T07:26:38Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289288+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14035v1"
+    },
+    "content": {
+      "title": "Agent-Orchestration in Autonomous Chip Design",
+      "authors": [
+        "Linyang Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14035v1",
+      "published_date": "2026-08-14T07:26:02Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289297+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14032v1"
+    },
+    "content": {
+      "title": "HAM-RAG: Hierarchy-Aware Multimodal RAG for Structure-Faithful Interleaved Generation",
+      "authors": [
+        "Yin Li",
+        "Ziyang Hu",
+        "Zhiyu Guo",
+        "Xiangyu Liu",
+        "Wenbin Li",
+        "Boo-Ho Yang",
+        "Rav Lawana",
+        "Ziyue Li",
+        "Wei Zeng",
+        "Fugee Tsung"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14032v1",
+      "published_date": "2026-08-14T07:20:42Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289312+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14028v1"
+    },
+    "content": {
+      "title": "AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning",
+      "authors": [
+        "Zhiyue Zhao",
+        "Jingyi Wu",
+        "Hairuo Liu",
+        "Mingyu Liu",
+        "Liyang Li",
+        "Hengdi Zhang",
+        "Tong He",
+        "Zhengxue Cheng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14028v1",
+      "published_date": "2026-08-14T07:19:06Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289327+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14027v1"
+    },
+    "content": {
+      "title": "E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras",
+      "authors": [
+        "Yang Yi",
+        "Juntao Hua",
+        "Jinpu Zhang",
+        "Liangwei Fan",
+        "Hui Shen",
+        "Dewen Hu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14027v1",
+      "published_date": "2026-08-14T07:18:53Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289347+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14022v1"
+    },
+    "content": {
+      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "authors": [
+        "Xinye Li",
+        "Lingshuai Lin",
+        "Lei Wang",
+        "Liuzhou Zhang",
+        "Jialin Cui",
+        "Qingshan Li",
+        "Guanchu Wang",
+        "Qingbin Liu",
+        "Xi Chen",
+        "Jiang Bian",
+        "Wai Lam"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14022v1",
+      "published_date": "2026-08-14T07:13:34Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289363+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14021v1"
+    },
+    "content": {
+      "title": "Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders",
+      "authors": [
+        "Keito Kozaki",
+        "Keigo Sakurai",
+        "Ren Togo",
+        "Takahiro Ogawa",
+        "Miki Haseyama"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14021v1",
+      "published_date": "2026-08-14T07:09:58Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289377+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14019v1"
+    },
+    "content": {
+      "title": "Emergent Models: Intelligence from Tiny Substrates",
+      "authors": [
+        "Giacomo Bocchese",
+        "Nicola Giacobbo",
+        "Etienne Guichard",
+        "James Wiles",
+        "Akshaj Devireddy"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14019v1",
+      "published_date": "2026-08-14T07:07:05Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289389+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14016v1"
+    },
+    "content": {
+      "title": "Content Based Video Narration of Gameplay with Vision Language Models",
+      "authors": [
+        "Mathew Varghese"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14016v1",
+      "published_date": "2026-08-14T07:03:30Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289399+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14015v1"
+    },
+    "content": {
+      "title": "MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning",
+      "authors": [
+        "Yingying Fan",
+        "Penghui Du",
+        "Leyan Zhu",
+        "Runze He",
+        "Zimeng Wu",
+        "Yuxuan Zhang",
+        "Liang Chen",
+        "Jiahao Xie",
+        "Jiangtang Wang",
+        "Shuai Shao",
+        "Anchao Yang",
+        "Yutong Bai",
+        "Yan Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14015v1",
+      "published_date": "2026-08-14T07:03:06Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289420+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14014v1"
+    },
+    "content": {
+      "title": "Buy the Rumor, Sell the News: When Is News Priced In?",
+      "authors": [
+        "Alireza Kargarzadeh",
+        "Nariman Khaledian",
+        "Navid Parvini",
+        "Sid Ghatak",
+        "Arman Khaledian"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14014v1",
+      "published_date": "2026-08-14T07:02:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289431+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.14011v1"
+    },
+    "content": {
+      "title": "EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment",
+      "authors": [
+        "Haokai Ma",
+        "Aoqi Hu",
+        "Yueao Xing",
+        "Ruobing Xie",
+        "Yonghui Yang",
+        "Teng Tu",
+        "Lei Meng",
+        "Tat-Seng Chua"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.14011v1",
+      "published_date": "2026-08-14T06:59:12Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289441+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13993v1"
+    },
+    "content": {
+      "title": "Simulation-Driven Vehicular Traffic Data Augmentation: Extending Sensor Coverage Through Virtual Sensing",
+      "authors": [
+        "Davide Andrea Guastella",
+        "Eladio Montero Porras",
+        "Evangelos Pournaras",
+        "Gianluca Bontempi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13993v1",
+      "published_date": "2026-08-14T06:19:47Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289449+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13990v1"
+    },
+    "content": {
+      "title": "Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy",
+      "authors": [
+        "Liwei Deng",
+        "Jing Jiang",
+        "Zhiwei Li",
+        "Yang Wang",
+        "Guodong Long"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13990v1",
+      "published_date": "2026-08-14T06:13:40Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289458+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13987v1"
+    },
+    "content": {
+      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
+      "authors": [
+        "John T. Halloran"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13987v1",
+      "published_date": "2026-08-14T06:05:26Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289466+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13985v1"
+    },
+    "content": {
+      "title": "Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface",
+      "authors": [
+        "Jiho Park",
+        "Jiechen Chen",
+        "Joonhyuk Kang",
+        "Osvaldo Simeone"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13985v1",
+      "published_date": "2026-08-14T06:02:29Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289474+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13982v1"
+    },
+    "content": {
+      "title": "XAI-Guided Conservative Decentralized Execution for Offline Multi-Agent Network Slicing",
+      "authors": [
+        "Eslam Eldeeb",
+        "Hatim Chergui",
+        "Merouane Debbah"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13982v1",
+      "published_date": "2026-08-14T05:54:04Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289492+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13974v1"
+    },
+    "content": {
+      "title": "ProFocus: Interpreting Affective Experience in Artistic Images with Progressive Visual Focusing",
+      "authors": [
+        "Zhiyan Zhang",
+        "Zicheng Yan",
+        "Jianqi Chen",
+        "Peipei Song",
+        "Shanshan Wang",
+        "Xun Yang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13974v1",
+      "published_date": "2026-08-14T05:34:11Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289503+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13958v1"
+    },
+    "content": {
+      "title": "Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence",
+      "authors": [
+        "James K. Wiles"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13958v1",
+      "published_date": "2026-08-14T04:58:01Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289509+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13951v1"
+    },
+    "content": {
+      "title": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
+      "authors": [
+        "Tianyu Fan",
+        "Chao Huang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13951v1",
+      "published_date": "2026-08-14T04:44:53Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289516+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13944v1"
+    },
+    "content": {
+      "title": "Musical Mirrors: The LLM as Sounding Board in Songwriting",
+      "authors": [
+        "Xiao Xiao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13944v1",
+      "published_date": "2026-08-14T04:33:33Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289521+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13940v1"
+    },
+    "content": {
+      "title": "AI Research Preference Models",
+      "authors": [
+        "Thomas Simon Foster",
+        "Bassel Al Omari",
+        "Tingchen Fu",
+        "Thomas Mann",
+        "Carl Domond",
+        "Lucia Cipolina-Kun",
+        "Bhavul Gauri",
+        "Muna Aghamelu",
+        "Alexander D. Goldie",
+        "Eryk Helenowski",
+        "Jean-Christophe Gagnon-Audet",
+        "Alberto Pepe",
+        "Saba Nazir",
+        "Daniel Izcovich",
+        "Noam Levi",
+        "Rishi Hazra",
+        "Karen Hambardzumyan",
+        "Nicolas Baldwin",
+        "Xian Li",
+        "Martin Josifoski",
+        "Paris Giampouras",
+        "Masoud Jalili Sabet",
+        "Anya Sims",
+        "Hela Momand",
+        "Tatiana Shavrina",
+        "Despoina Magka",
+        "Jason Weston",
+        "Yulin Wang",
+        "Anirudh Goyal",
+        "João Henriques",
+        "Yoram Bachrach",
+        "Emily McMilin",
+        "Jakob Nicolaus Foerster"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13940v1",
+      "published_date": "2026-08-14T04:20:37Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289544+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13939v1"
+    },
+    "content": {
+      "title": "CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification",
+      "authors": [
+        "Bingxin Yu",
+        "Xueli Wang",
+        "Jerry Zhou",
+        "Wenyan Wang",
+        "Li Wen",
+        "Lan Huang",
+        "Xin Feng",
+        "Fengfeng Zhou",
+        "Kewei Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13939v1",
+      "published_date": "2026-08-14T04:19:33Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289555+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13937v1"
+    },
+    "content": {
+      "title": "Deep Vision in Smart Manufacturing: MODERN Framework for Intelligent Quality Monitoring and Diagnosis",
+      "authors": [
+        "Yicheng Kang",
+        "Yuling Jiao",
+        "Xin Geng",
+        "Mahesh Nagarajan"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13937v1",
+      "published_date": "2026-08-14T04:17:57Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289563+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13934v1"
+    },
+    "content": {
+      "title": "Probabilistic indirect models for undrained shear strength: addressing significant data missing and variability with advanced imputation and machine learning techniques",
+      "authors": [
+        "Haibin Xiong",
+        "Shaoheng Dai",
+        "Peng Lan",
+        "Xuzhen He",
+        "Chenxi Tong",
+        "Sheng Zhang",
+        "Daichao Sheng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13934v1",
+      "published_date": "2026-08-14T04:15:16Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289574+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13926v1"
+    },
+    "content": {
+      "title": "Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact",
+      "authors": [
+        "Zhelun",
+        "Wu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13926v1",
+      "published_date": "2026-08-14T03:53:21Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289581+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13925v1"
+    },
+    "content": {
+      "title": "CForce: Boosting Parallel Decoding for dLLMs via Consistency Forcing",
+      "authors": [
+        "Yuji Ren",
+        "Chenkai Xu",
+        "Zhuocheng Gong",
+        "Jianguo Li",
+        "Zhijie Deng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13925v1",
+      "published_date": "2026-08-14T03:52:33Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289589+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13921v1"
+    },
+    "content": {
+      "title": "When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict",
+      "authors": [
+        "Lu Yang",
+        "Shusheng Xu",
+        "Zhuoran Li",
+        "Tongkai Yang",
+        "Longbo Huang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13921v1",
+      "published_date": "2026-08-14T03:48:08Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289597+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13914v1"
+    },
+    "content": {
+      "title": "Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning",
+      "authors": [
+        "Chun-Hua Lin",
+        "Samuel Yen-Chi Chen",
+        "Yu-Chao Hsu",
+        "Kuo-Chung Peng",
+        "Jiun-Cheng Jiang",
+        "Chi-Sheng Chen",
+        "Tai-Yue Li",
+        "Nan-Yow Chen",
+        "En-Jui Kuo",
+        "Hsi-Sheng Goan"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13914v1",
+      "published_date": "2026-08-14T03:35:08Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289609+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13909v1"
+    },
+    "content": {
+      "title": "Omni-Photonic Base Station: A Three-Functional-Domain Photonic Architecture for Evolutionary 6G Wireless Infrastructure",
+      "authors": [
+        "Dapeng Wang",
+        "Xiaoxiong Song",
+        "Ziling Fu",
+        "Wenyang Cheng",
+        "Jiayao Wang",
+        "Xiaogang Yan",
+        "Ze Wang",
+        "Min Zhang",
+        "Jingdi Liu",
+        "Nan Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13909v1",
+      "published_date": "2026-08-14T03:27:00Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289620+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13905v1"
+    },
+    "content": {
+      "title": "CipherSight: Robust Website Fingerprinting via Record-Resource Semantic Supervision under Distribution Shifts",
+      "authors": [
+        "Runhan Song",
+        "Qiqi Liu",
+        "Chuanzhou Pan",
+        "Zhenquan Ding",
+        "Youquan Xian",
+        "Chongru Fan",
+        "Lei Cui",
+        "Wei Wang",
+        "Zhiyu Hao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13905v1",
+      "published_date": "2026-08-14T03:17:57Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289630+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13900v1"
+    },
+    "content": {
+      "title": "Agentic Transaction: Towards ACID-Compliant Agent Systems",
+      "authors": [
+        "Zhaoyan Sun",
+        "Xiaoxiao Wang",
+        "Guoliang Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13900v1",
+      "published_date": "2026-08-14T03:13:54Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289638+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13885v1"
+    },
+    "content": {
+      "title": "Dual-Layer Over-the-Air Federated Learning in LEO Satellite Networks: Architecture, Key Technologies and Applications",
+      "authors": [
+        "Zhendong Li",
+        "Shaojie Wang",
+        "Zhou Su",
+        "Tom H. Luan",
+        "Ruijin Sun",
+        "Ying Wang",
+        "Wen Chen"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13885v1",
+      "published_date": "2026-08-14T02:22:51Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289647+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13884v1"
+    },
+    "content": {
+      "title": "Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen",
+      "authors": [
+        "Jiada Li",
+        "Xuesong Ye",
+        "Olamide Olowoniyi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13884v1",
+      "published_date": "2026-08-14T02:22:28Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289656+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13883v1"
+    },
+    "content": {
+      "title": "MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends",
+      "authors": [
+        "Chaoqun Zhan",
+        "Qiang Zhou",
+        "Guannan Li",
+        "Zhenqiang Huang",
+        "Qianjin Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13883v1",
+      "published_date": "2026-08-14T02:19:26Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289665+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13867v1"
+    },
+    "content": {
+      "title": "Engineering Reliable Coding Agents: Evaluating and Operating the System Around the Model",
+      "authors": [
+        "Stephanie Jarmak"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13867v1",
+      "published_date": "2026-08-14T01:34:25Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289671+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13863v1"
+    },
+    "content": {
+      "title": "Joint Optimization of Memory and Computing Frequency for Energy-Efficient DNN Inference",
+      "authors": [
+        "Yunchu Han",
+        "Zhaojun Nan",
+        "Sheng Zhou",
+        "Zhisheng Niu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13863v1",
+      "published_date": "2026-08-14T01:25:00Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289679+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13844v1"
+    },
+    "content": {
+      "title": "Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions",
+      "authors": [
+        "Qinglin Yang",
+        "Chen Qiu",
+        "Hongyuan Zhang",
+        "Pengdeng Li",
+        "Yuan Liu",
+        "Zhihong Tian"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13844v1",
+      "published_date": "2026-08-14T00:25:24Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289688+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13840v1"
+    },
+    "content": {
+      "title": "ASSERT: A Measurement Pipeline for GenAI Audits",
+      "authors": [
+        "Riccardo Fogliato",
+        "Abhinav Palia",
+        "Xiawei Wang",
+        "Emily Sheng",
+        "Chad Atalla",
+        "Jean Garcia-Gathright",
+        "Nicholas Pangakis",
+        "Sharman Tan",
+        "Dan Vann",
+        "Hannah Washington",
+        "P. Alex Dow",
+        "Heba Elfardy",
+        "Hanna Wallach",
+        "Sandeep Atluri"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13840v1",
+      "published_date": "2026-08-14T00:07:32Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289700+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13833v1"
+    },
+    "content": {
+      "title": "AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution",
+      "authors": [
+        "Simiao Zuo",
+        "Chenhui Xu",
+        "Yimeng Jia",
+        "Qiang Lou",
+        "Jian Jiao",
+        "Denis Charles"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13833v1",
+      "published_date": "2026-08-13T23:53:05Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289709+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13830v1"
+    },
+    "content": {
+      "title": "Realizing record-high transverse thermoelectric figure of merit at room temperature in artificially tilted multilayers based on high power factor NiFe alloy",
+      "authors": [
+        "Yebin Lee",
+        "Fuyuki Ando",
+        "Takamasa Hirai",
+        "Keisuke Hirata",
+        "Kota Hasegawa",
+        "Ken-ichi Uchida"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13830v1",
+      "published_date": "2026-08-13T23:36:39Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289718+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13823v1"
+    },
+    "content": {
+      "title": "Hierarchical Sensor-Spoofing Defence Framework for Networked DC Microgrids via Cyber-Physical Coordination",
+      "authors": [
+        "Mengxiang Liu",
+        "Xin Zhang",
+        "Shiyi Zhao",
+        "Ruilong Deng"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13823v1",
+      "published_date": "2026-08-13T23:20:54Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289725+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13820v1"
+    },
+    "content": {
+      "title": "SDO: Subspace Deconflicting Operator for Multi-Adapter Composition",
+      "authors": [
+        "Zhongsheng Wang",
+        "Zhedong Lin",
+        "Qian Liu",
+        "Xinyu Zhang",
+        "Jiamou Liu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13820v1",
+      "published_date": "2026-08-13T23:13:39Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289733+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13809v1"
+    },
+    "content": {
+      "title": "Optimal Power Allocation and AI Receiver Design for Superimposed DMRS and Data Transmission",
+      "authors": [
+        "Sha Hu",
+        "Zhongwang Fu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13809v1",
+      "published_date": "2026-08-13T22:42:42Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289740+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13790v1"
+    },
+    "content": {
+      "title": "PPAPlace: Differentiable Cross-Stage Objectives for Chip Placement Optimization",
+      "authors": [
+        "Ruogu Chen",
+        "Jie Han"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13790v1",
+      "published_date": "2026-08-13T21:50:07Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289749+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13787v1"
+    },
+    "content": {
+      "title": "From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL",
+      "authors": [
+        "Wenyue Hua",
+        "Zachary Huang",
+        "Tyler Payne",
+        "Safoora Yousefi",
+        "Saleema Amershi",
+        "Asli Celikyilmaz"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13787v1",
+      "published_date": "2026-08-13T21:39:12Z"
+    },
+    "collectedAt": "2026-08-17T02:25:24.289761+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13786v1"
+    },
+    "content": {
+      "title": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+      "authors": [
+        "Qingfang Liu",
+        "Qiao Jin",
+        "Joe D. Menke",
+        "Thorsten Kahnt",
+        "Zhiyong Lu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13786v1",
+      "published_date": "2026-08-13T21:38:01Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580633+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13774v1"
+    },
+    "content": {
+      "title": "FLARE MCMC: Fidelity-based Layer-Adaptive REcursive proposals for MCMC",
+      "authors": [
+        "Harini Venkatesan",
+        "Christian Shelton",
+        "Ming-Feng Ho",
+        "Simeon Bird",
+        "Mengxuan Wu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13774v1",
+      "published_date": "2026-08-13T21:02:46Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580653+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13773v1"
+    },
+    "content": {
+      "title": "CutClean: Neural Network Pruning for Privacy-Preserving Inference",
+      "authors": [
+        "Leonardo Magliolo",
+        "Vito Paolo Pastore",
+        "Giuseppe Valenzise",
+        "Enzo Tartaglione"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13773v1",
+      "published_date": "2026-08-13T20:59:25Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580663+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13767v1"
+    },
+    "content": {
+      "title": "Simulation-Aware In-Context Policy Improvement for LLM-Aided Analog Layout Refinement",
+      "authors": [
+        "Bingyang Liu",
+        "Ziming Wei",
+        "Xiaohan Gao",
+        "David Z. Pan"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13767v1",
+      "published_date": "2026-08-13T20:46:17Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580672+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13765v1"
+    },
+    "content": {
+      "title": "Energy Efficient Multi-User Beamforming and 3D Position Optimization for SIM-Assisted UAVs",
+      "authors": [
+        "Chandan Kumar Sheemar",
+        "Giovanni Iacovelli",
+        "Sourabh Solanki",
+        "Wali Ullah Khan",
+        "George C. Alexandropoulos",
+        "Symeon Chatzinotas"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13765v1",
+      "published_date": "2026-08-13T20:41:59Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580691+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13760v1"
+    },
+    "content": {
+      "title": "Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models",
+      "authors": [
+        "Jean de Dieu Nyandwi",
+        "Leena Mathur",
+        "Yonatan Bisk",
+        "Robert Hawkins",
+        "Graham Neubig"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13760v1",
+      "published_date": "2026-08-13T20:37:59Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580701+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13754v1"
+    },
+    "content": {
+      "title": "Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation",
+      "authors": [
+        "Ajay Pravin Mahale"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13754v1",
+      "published_date": "2026-08-13T20:27:56Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580708+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13749v1"
+    },
+    "content": {
+      "title": "Data-driven techniques for translational neuroscience and personalized neuro-health",
+      "authors": [
+        "Vishal Subedi",
+        "Shashipraba N. K. Rajakaruna",
+        "Pratyusha Sarkar",
+        "Subhankar Chattoraj",
+        "Anjali Khasa",
+        "Siddhartha Nandy",
+        "Hamza Farooq",
+        "Animikh Biswas",
+        "Sanjay Chaudhuri",
+        "Asim K. Dey",
+        "Karuna Joshi",
+        "Christophe Lenglet",
+        "Ansu Chatterjee"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13749v1",
+      "published_date": "2026-08-13T20:11:09Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580723+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13742v1"
+    },
+    "content": {
+      "title": "Does ISO-Grounded NFR Specification Improve LLM Code Generation? A Comparison of Rich and Structured Interventions against a Natural-Language Baseline",
+      "authors": [
+        "Joào Pedro Monteiro Pereira",
+        "Vinicius Cardoso Garcia"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13742v1",
+      "published_date": "2026-08-13T19:58:01Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580730+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13730v1"
+    },
+    "content": {
+      "title": "Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost",
+      "authors": [
+        "Victor Barros de Miranda Neves",
+        "Kiev Santos da Gama",
+        "Vinicius Cardoso Garcia"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13730v1",
+      "published_date": "2026-08-13T19:44:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580737+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13721v1"
+    },
+    "content": {
+      "title": "Capacity-Dependent Effects of Data Selection for Reasoning",
+      "authors": [
+        "Cuong Dang",
+        "Hoang Anh Just",
+        "Ruoxi Jia"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13721v1",
+      "published_date": "2026-08-13T19:31:46Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580746+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13719v1"
+    },
+    "content": {
+      "title": "Coverage Aware Active Evaluation for Failure Discovery with Paired Systems",
+      "authors": [
+        "Anjali Parashar",
+        "Rachel Luo",
+        "Apoorva Sharma",
+        "Sushant Veer",
+        "Edward Schmerling",
+        "Carson Sobolewski",
+        "Mingxin Yu",
+        "Chuchu Fan",
+        "Marco Pavone"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13719v1",
+      "published_date": "2026-08-13T19:26:25Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580758+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13712v1"
+    },
+    "content": {
+      "title": "Reading Between The Lines: Modeling and Evaluating Behavioral Realism in Legal Simulation",
+      "authors": [
+        "Divya Vetticaden",
+        "Arya Gupta",
+        "Julian Nyarko",
+        "Megan Ma"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13712v1",
+      "published_date": "2026-08-13T19:15:26Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580766+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13708v1"
+    },
+    "content": {
+      "title": "TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials",
+      "authors": [
+        "Fatema Tuj Johora Faria",
+        "Mukaffi Bin Moin",
+        "M. F. Mridha",
+        "Jubayer Al Mahmud"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13708v1",
+      "published_date": "2026-08-13T19:06:37Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580774+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13706v1"
+    },
+    "content": {
+      "title": "CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA",
+      "authors": [
+        "Fatema Tuj Johora Faria",
+        "Mukaffi Bin Moin",
+        "Jubayer Al Mahmud",
+        "M. F. Mridha",
+        "Md. Alam Hossain"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13706v1",
+      "published_date": "2026-08-13T18:59:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580783+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13702v1"
+    },
+    "content": {
+      "title": "SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers",
+      "authors": [
+        "Kiran Nair",
+        "Rodrigue Rizk",
+        "KC Santosh"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13702v1",
+      "published_date": "2026-08-13T18:51:04Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580790+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13690v1"
+    },
+    "content": {
+      "title": "MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation",
+      "authors": [
+        "Rafi Ibn Sultan",
+        "Hui Zhu",
+        "Chengyin Li",
+        "Dongxiao Zhu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13690v1",
+      "published_date": "2026-08-13T18:37:13Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580798+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13684v1"
+    },
+    "content": {
+      "title": "Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints",
+      "authors": [
+        "Jonghyuk Park",
+        "Alex Lascarides",
+        "Subramanian Ramamoorthy"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13684v1",
+      "published_date": "2026-08-13T18:27:29Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580806+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13681v1"
+    },
+    "content": {
+      "title": "Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT",
+      "authors": [
+        "Pu Zhao",
+        "Changdi Yang",
+        "Yixiao Chen",
+        "Yi Gao",
+        "Yifan Cao",
+        "Haochen Zeng",
+        "Yanzhi Wang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13681v1",
+      "published_date": "2026-08-13T18:24:02Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580816+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13675v1"
+    },
+    "content": {
+      "title": "From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models",
+      "authors": [
+        "Pranav Kumar Kaliaperumal"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13675v1",
+      "published_date": "2026-08-13T18:16:21Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580822+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13667v1"
+    },
+    "content": {
+      "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+      "authors": [
+        "Zhensu Sun",
+        "Chengran Yang",
+        "Yunbo Lyu",
+        "Jieke Shi",
+        "David Lo"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13667v1",
+      "published_date": "2026-08-13T18:04:53Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580830+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13662v1"
+    },
+    "content": {
+      "title": "Ontology-Grounded Project Memory for Coding Agents",
+      "authors": [
+        "James Adam"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13662v1",
+      "published_date": "2026-08-13T18:03:00Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580838+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13560v1"
+    },
+    "content": {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "authors": [
+        "Yaxin Luo",
+        "Haobin Jiang",
+        "Jialv Zou",
+        "Xu Huang",
+        "Wenhao Yan",
+        "Haodong Li",
+        "Zhengrong Yue",
+        "Jing Li",
+        "Xiaofu Chen",
+        "Xiaohan Zhao",
+        "Jiacheng Liu",
+        "Jiacheng Cui",
+        "Zhiqiang Shen",
+        "Xiaotong Li"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13560v1",
+      "published_date": "2026-08-13T17:59:57Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580852+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13558v1"
+    },
+    "content": {
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "authors": [
+        "Bobo Li",
+        "Hao Fei",
+        "Tianjie Ju",
+        "Mong-Li Lee",
+        "Wynne Hsu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13558v1",
+      "published_date": "2026-08-13T17:59:52Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580861+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13555v1"
+    },
+    "content": {
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "authors": [
+        "Dairu Liu",
+        "Zekun Qi",
+        "Jiayu Zeng",
+        "Ruixi Yu",
+        "Yu Guan",
+        "Yintianrun Zhang",
+        "Xuchuan Chen",
+        "Sikai Liang",
+        "Zekai Li",
+        "Chenghuai Lin",
+        "Xinqiang Yu",
+        "Wenyao Zhang",
+        "He Wang",
+        "Li Yi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13555v1",
+      "published_date": "2026-08-13T17:59:40Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580874+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13548v1"
+    },
+    "content": {
+      "title": "All-optical switching of nonlinear structured light in crystal-engineered van der Waals materials",
+      "authors": [
+        "Paolo Valisa",
+        "Marc Richstaetter",
+        "Bianca Sanfilippo",
+        "Benedikt Ursprung",
+        "Zhi Hao Peng",
+        "Victoria Quiros-Cordero",
+        "Francesco Gucci",
+        "Xiaoyang Zhu",
+        "P. James Schuck",
+        "Giulio Cerullo",
+        "Luca Carletti",
+        "Chiara Trovatello"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13548v1",
+      "published_date": "2026-08-13T17:58:28Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580886+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13547v1"
+    },
+    "content": {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "authors": [
+        "Shangao Li",
+        "Yao Zhang",
+        "Volker Tresp",
+        "Yuanyuan Yang"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13547v1",
+      "published_date": "2026-08-13T17:57:20Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580893+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13545v1"
+    },
+    "content": {
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "authors": [
+        "Fanfei Li",
+        "Jana Zeller",
+        "Manuel Prada-Corral",
+        "Thaddäus Wiedemer",
+        "Prasanna Mayilvahanan",
+        "Ryan Cotterell",
+        "Wieland Brendel"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13545v1",
+      "published_date": "2026-08-13T17:56:12Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580903+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13522v1"
+    },
+    "content": {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "authors": [
+        "Zhe Ye",
+        "Hantao Lou",
+        "Yuechun Sun",
+        "Peiyang Song",
+        "Zhengxu Yan",
+        "Timothe Kasriel",
+        "Qingyang Zhang",
+        "Kaiyu Yang",
+        "Soonho Kong",
+        "Jingxuan He",
+        "Dawn Song"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13522v1",
+      "published_date": "2026-08-13T17:41:27Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580916+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13520v1"
+    },
+    "content": {
+      "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+      "authors": [
+        "Martin J. Wainwright"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13520v1",
+      "published_date": "2026-08-13T17:40:17Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580922+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13517v1"
+    },
+    "content": {
+      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "authors": [
+        "Peter Schneider-Kamp",
+        "Jacob Nielsen",
+        "Gianluca Barmina",
+        "Kenneth Enevoldsen",
+        "Lukas Galke Poech"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13517v1",
+      "published_date": "2026-08-13T17:37:53Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580932+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13503v1"
+    },
+    "content": {
+      "title": "In-situ Adjoint Wave Control in Reconfigurable Non-Hermitian Nonlinear Systems",
+      "authors": [
+        "John Guillamon",
+        "William Tuxbury",
+        "Cheng-Zhen Wang",
+        "Owen Miller",
+        "Zin Lin",
+        "Tsampikos Kottos"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13503v1",
+      "published_date": "2026-08-13T17:30:19Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580941+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13492v1"
+    },
+    "content": {
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+      "authors": [
+        "AlayaWorld Team",
+        "Kaipeng Zhang",
+        "Chuanhao Li",
+        "Yifan Zhan",
+        "Yongtao Ge",
+        "Yuanyang Yin",
+        "Jiaming Tan",
+        "Kang He",
+        "Liaoyuan Fan",
+        "Mingliang Zhai",
+        "Ruicong Liu",
+        "Xiaojie Xu",
+        "Xuangeng Chu",
+        "Zhen Li",
+        "Zhengyuan Lin",
+        "Zhixiang Wang",
+        "Zian Meng",
+        "Zihui Gao"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13492v1",
+      "published_date": "2026-08-13T17:21:03Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580955+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13485v1"
+    },
+    "content": {
+      "title": "Macroscopic Stability of a Rapidly Rotating Theta Pinch",
+      "authors": [
+        "Richard Fitzpatrick"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13485v1",
+      "published_date": "2026-08-13T17:14:05Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580962+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13484v1"
+    },
+    "content": {
+      "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+      "authors": [
+        "Dananjay Srinivas",
+        "Saksham Khatwani",
+        "Maria Pacheco"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13484v1",
+      "published_date": "2026-08-13T17:13:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580969+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13482v1"
+    },
+    "content": {
+      "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+      "authors": [
+        "Julian Minder",
+        "Viktor Moskvoretskii",
+        "Raghav Singhal",
+        "Difan Jiao",
+        "Andy Arditi",
+        "Shaobo Cui",
+        "Yiderigun Borjigin",
+        "Kartik Bali",
+        "Stefan Krsteski",
+        "Harsh Raj",
+        "Huu Nguyen",
+        "Jannik Brinkmann",
+        "Ashton Anderson",
+        "Roland Aydin",
+        "Robert West"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13482v1",
+      "published_date": "2026-08-13T17:12:04Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580983+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13476v1"
+    },
+    "content": {
+      "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+      "authors": [
+        "Saisha Shetty",
+        "Satvik Tripathi",
+        "Austin Lin",
+        "Colin Zhao",
+        "Theodore Kim",
+        "Don Enwerem",
+        "Jacinta Arnold",
+        "Shahriar Faghani",
+        "Tessa S Cook"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13476v1",
+      "published_date": "2026-08-13T17:00:08Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.580993+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13472v1"
+    },
+    "content": {
+      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+      "authors": [
+        "Mohammed Ayman Habib",
+        "Rylan Hart",
+        "Morteza Fayazi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13472v1",
+      "published_date": "2026-08-13T16:57:07Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581000+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13465v1"
+    },
+    "content": {
+      "title": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
+      "authors": [
+        "Christofer Washington Berruz Chungata",
+        "Martin Jurecek",
+        "Katerina Potika",
+        "William B. Andreopoulos",
+        "Mark Stamp"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13465v1",
+      "published_date": "2026-08-13T16:46:56Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581008+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13463v1"
+    },
+    "content": {
+      "title": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+      "authors": [
+        "Daniel Perkins",
+        "John Squires",
+        "Janou Milligan",
+        "Chandra Raskoti",
+        "Linda Ungerboeck"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13463v1",
+      "published_date": "2026-08-13T16:45:24Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581016+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13459v1"
+    },
+    "content": {
+      "title": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+      "authors": [
+        "Jim Woodcock",
+        "Gabriel Leite",
+        "Augusto Sampaio",
+        "Ran Wei"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13459v1",
+      "published_date": "2026-08-13T16:43:44Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581025+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13456v1"
+    },
+    "content": {
+      "title": "A Unifying Perspective on Causal World Models: From Observations to Representations to Structure",
+      "authors": [
+        "Avinash Kori",
+        "Fabrizio Russo"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13456v1",
+      "published_date": "2026-08-13T16:40:35Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581032+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13453v1"
+    },
+    "content": {
+      "title": "UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models",
+      "authors": [
+        "Yukun Dai",
+        "Mingzhe Dai",
+        "Tianshi Wang",
+        "Fengling Li",
+        "Jingjing Li",
+        "Lei Zhu"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13453v1",
+      "published_date": "2026-08-13T16:38:57Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581040+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13447v1"
+    },
+    "content": {
+      "title": "Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension",
+      "authors": [
+        "Alison R. Panisson",
+        "Maria Eduarda W. M. Vianna",
+        "Italo Firmino da Silva",
+        "Heitor Henrique da Silva",
+        "Rafaela Fernandes Savaris",
+        "Bernardo Pandolfi Costa",
+        "Martin Augusto Gagliotti Vigil",
+        "Jim Lau",
+        "Agenor Hentz",
+        "Andréa Sabedra Bordin",
+        "Alexandre Leopoldo Gonçalves",
+        "Roberto Rodrigues-Filho"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13447v1",
+      "published_date": "2026-08-13T16:32:44Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581052+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13438v1"
+    },
+    "content": {
+      "title": "ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models",
+      "authors": [
+        "Gehan Zheng",
+        "Matthew Johnson-Roberson",
+        "Weiming Zhi"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13438v1",
+      "published_date": "2026-08-13T16:25:54Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581059+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13436v1"
+    },
+    "content": {
+      "title": "Low-Complexity Channel Parameter Estimation for Coprime HRIS-Assisted MIMO Systems",
+      "authors": [
+        "Jean C. S. Ferreira",
+        "Melryllin G. O. Sousa",
+        "Fazal-E Asim"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13436v1",
+      "published_date": "2026-08-13T16:24:25Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581066+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13433v1"
+    },
+    "content": {
+      "title": "Algebraic Decomposition Theory for Transformer Length Generalization",
+      "authors": [
+        "Andy Yang",
+        "Blerta Veseli",
+        "Corentin Barloy",
+        "Michaël Cadilhac",
+        "Andreas Krebs",
+        "Charles Paperman",
+        "Howard Straubing",
+        "Michael Hahn"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13433v1",
+      "published_date": "2026-08-13T16:20:56Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581077+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13430v1"
+    },
+    "content": {
+      "title": "Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity",
+      "authors": [
+        "Irina Proskurina",
+        "Mayank Kumar",
+        "Oyindolapo O. Komolafe"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13430v1",
+      "published_date": "2026-08-13T16:18:45Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581086+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13428v1"
+    },
+    "content": {
+      "title": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+      "authors": [
+        "Juan Irving Vasquez",
+        "Juan Terven",
+        "Laura-Ivoone Garay-Jimenez"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13428v1",
+      "published_date": "2026-08-13T16:17:41Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581094+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "Arxiv",
+      "url": "https://arxiv.org/abs/2608.13426v1"
+    },
+    "content": {
+      "title": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
+      "authors": [
+        "Zixuan Lan",
+        "Yanhong Li",
+        "Jiawei Zhou"
+      ],
+      "paper_url": "https://arxiv.org/abs/2608.13426v1",
+      "published_date": "2026-08-13T16:16:04Z"
+    },
+    "collectedAt": "2026-08-17T02:25:28.581102+00:00"
+  }
+]
